@@ -1,0 +1,21 @@
+HTML - Hyper Text Markup Language
+Markup Language - When give the instruction to browser with the help of some text which is display on the web page.
+Jab hum kuch text likh kar browser ko instruction dete hai to ye usi ke according web page par display hota hai.
+
+Elements -  1. Individual components
+  
+                                 Syntax of Elements
+
+         Opening Tag           Hello everyone                  Closing Tag
+         <Tag Name>                                            </Tag Name>
+
+Note - Image me closing tag ka use nhi hota hai.
+
+
+Nesting Elements - Ek element (Tag) ke andar dusra element use  kar sakte hai.
+
+Attributes - Elements me additional properties add karna 
+            for ex- Width, Height
+<Tag name attribute name = "attribute value">
+
+                                                         
